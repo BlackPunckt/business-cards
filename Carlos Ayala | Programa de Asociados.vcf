@@ -1,14 +1,13 @@
-BEGIN:VCARD\
-VERSION:3.0\
-N:Ayala;Carlos;;;\
-FN:Carlos Ayala - Affiliate Program\
-ORG:Carlos Ayala | Affiliate Program\
-TITLE:Business Affiliate Partner\
-TEL;TYPE=CELL:+52 55 6134 7494\
-EMAIL:partners@carlosayala.mx\
-URL:https://carlosayala.mx/affiliates\
-NOTE:Join our affiliate program and earn commissions promoting success programs.\
-item1.URL;TYPE=WORK:https://wa.me/525561347494?text=Hola%20Carlos%2C%20me%20interesa%20unirme%20a%20tu%20programa%20de%20afiliados%20de%20mentor%C3%ADa%20empresarial.%20%C2%BFPodr%C3%ADas%20darme%20m%C3%A1s%20informaci%C3%B3n%3F\
-item1.X-ABLabel:WhatsApp Affiliate Contact\
-END:VCARD\
-}
+BEGIN:VCARD
+VERSION:3.0
+N:Ayala;Carlos;;;
+FN:Carlos Ayala - Affiliate Program
+ORG:Carlos Ayala | Affiliate Program
+TITLE:Business Affiliate Partner
+TEL;TYPE=CELL:+52 55 6134 7494
+EMAIL:partners@carlosayala.mx
+URL:https://carlosayala.mx/affiliates
+NOTE:Join our affiliate program and earn commissions promoting success programs.
+item1.URL;TYPE=WORK:https://wa.me/525561347494?text=Hola%20Carlos%2C%20me%20interesa%20unirme%20a%20tu%20programa%20de%20afiliados%20de%20mentor%C3%ADa%20empresarial.%20%C2%BFPodr%C3%ADas%20darme%20m%C3%A1s%20informaci%C3%B3n%3F
+item1.X-ABLabel:WhatsApp Affiliate Contact
+END:VCARD
